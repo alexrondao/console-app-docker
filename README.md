@@ -1,0 +1,1 @@
+https://imasters.com.br/back-end/net-core-docker-executando-uma-console-application-como-um-servico

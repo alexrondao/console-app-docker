@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "servicedocker", "servicedocker\servicedocker.csproj", "{CFB2F655-655C-488D-B4FD-FFA00FC6B367}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CFB2F655-655C-488D-B4FD-FFA00FC6B367}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CFB2F655-655C-488D-B4FD-FFA00FC6B367}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CFB2F655-655C-488D-B4FD-FFA00FC6B367}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CFB2F655-655C-488D-B4FD-FFA00FC6B367}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {026BAA32-D5AE-4AF4-A929-03E1E8B68242}
+	EndGlobalSection
+EndGlobal
